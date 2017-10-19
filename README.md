@@ -2,9 +2,13 @@
 Creating a versioned history of resume
 
 Stuart Michael Lewan
+
 159 Dolores St. Apt #1, San Francisco, CA  94103
+
 415-724-3407
+
 stuartlewan@gmail.com
+
 http://linkedin/in/stuartlewan
 
 Summary
