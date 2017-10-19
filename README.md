@@ -28,21 +28,37 @@ Recognized track-record growing teams from the ground up, efficiently leveraging
 Technical Skills and Experience
 
 Quality Assurance Project/Team Lead/Manager: Designed and implemented all aspects of end-to-end test planning, test case development, test execution, project estimation, risk evaluation, test coverage and launch readiness decisions for national/global products, projects and campaigns.
+
 Test Automation and Tools: Jira, Bugzilla, GitHub, Selenium IDE, Sauce Labs, Test Fairy, scripting and test harness management, Charles, Fiddler, XCode, Chrome, Safari, IE, Firefox browser developer tools
+
 Agile Methodology: Successful conversion of national-scale waterfall projects, including navigating red-flag reviews, sprint QA cycles, estimation and backlog management
+
 Technical Operations: New Relic real-time monitoring and operational responsibility for multi-tier systems implementation of new code, error handling and response determinations  
+
 Offshore/Remote Testing: Planned and coordinated remote test teams providing around-the-clock testing in India, Ireland and Singapore, validating, prioritizing, and escalating test results, as well as utilizing test resources from sister offices of global digital agency.
+
 DevOps/Continuous Integration/Release Management: Investigated errors and failures at all stages of Jenkins automated development pipeline, initiating builds, validating test automation results, and investigating conflicts between new code and existing automated tests
-API Testing: Implemented testing for API conversions, ensuring quality equivalence between new and old API implementations for national client while maintaining weekly publishing schedule 
+
+API Testing: Implemented testing for API conversions, SOAP, RESTful, ensuring quality equivalence between new and old API implementations for national client while maintaining weekly publishing schedule 
+
 Analytics: Validated tagging, tracking and metrics for Google Analytics, Omniture/Adobe, Doubleclick, including using analytics console results to target testing
-Web sites: Enforced quality and brand consistency standards for national/global clients and their campaigns utilizing HTML, Javascript, Ruby on Rails, ASP,Java, SQL, and Oracle including cross-browser compatibility, functionality, user experience, error-handling 
+
+Web sites: Enforced quality and brand consistency standards for national/global clients and their campaigns for full-stack development in HTML, Javascript, Ruby on Rails, ASP,Java, SQL, and Oracle including cross-browser compatibility, functionality, user experience, error-handling 
+
 Social Media: Tested integrated social media components of client campaigns on Facebook, Twitter, Pinterest, Google+, including monitoring of user-generated content
+
 Mobile Applications: All aspects functional and user experience of both iOS and Android applications on full range of phones and tablets, especially through hardware and OS updates
+
 Performance/Load Testing: BrowserMob/Neustar scripting and execution for national retailer Black Friday maximum peak loads
-Requirements: Developed, reviewed, and approved testing requirements with internal and external client business analysts, project management and executive teams
+
+Requirements: Developed, reviewed, and approved use cases and testing requirements with internal and external stakeholders including client and account business analysts, project and technical, management and executive teams
+
 Optimization: Increased page load and response times 20 to 40% through webtrace analysis, expertise ensuring high quality video content delivery over AKAMAI CDN
+
 Localization: Delivered global sites simultaneously and in phased releases in multiple languages and meeting regional requirements and specifications, including Chinese, Japanese, Korean, Thai and Russian.
+
 Accessibility: Ensured compliance with highest standards for blind and impaired users using JAWS test framework 
+
 Content Management System (CMS): Adobe CQ, proprietary in-house developed CMS like the Nike Platform and Method consumer products
 
 Professional Experience
