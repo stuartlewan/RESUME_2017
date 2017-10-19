@@ -11,7 +11,7 @@ stuartlewan@gmail.com
 
 http://linkedin/in/stuartlewan
 
-Summary
+SUMMARY
 
 Proven leadership achieving the highest standards of user experience, integration and production quality at the cutting edge where new technologies enter every day life.
 
@@ -25,7 +25,8 @@ Excellent communication, collaboration and reporting skills.  Effective client-f
 
 Recognized track-record growing teams from the ground up, efficiently leveraging resources for maximum impact, rapidly adapting to shifting technical and client requirements.
 
-Technical Skills and Experience
+
+TECHNICAL SKILLS AND EXPERIENCE
 
 Quality Assurance Project/Team Lead/Manager: Designed and implemented all aspects of end-to-end test planning, test case development, test execution, project estimation, risk evaluation, test coverage and launch readiness decisions for national/global products, projects and campaigns.
 
@@ -61,49 +62,66 @@ Accessibility: Ensured compliance with highest standards for blind and impaired 
 
 Content Management System (CMS): Adobe CQ, proprietary in-house developed CMS like the Nike Platform and Method consumer products
 
-Professional Experience
+
+PROFESSIONAL HISTORY
 
 Senior Quality Engineer/Quality Team Lead
 AKQA San Francisco (2006-2015) 
-	First QA employee, built desktop and mobile test lab, hired and trained key staff, coordinated resources between offices, planned and executed front-end and integration testing for banner ads, direct mail, web sites, blogs, digital publications, mobile applications and corporate infrastructure projects, such as:
-	• Integrating iOS and Android mobile, tablets, Facebook, Twitter, etc into digital strategies for clients like Microsoft, Nike, XBOX, McDonald’s,    Visa, Target, Audi and Gap
-	• Managing all QA for Target Black Friday digital campaigns for four years with zero down-time or performance issues (even when main Target.com site failed)
+
+First QA employee, built desktop and mobile test lab, hired and trained key staff, coordinated resources between offices, planned and executed front-end and integration testing for banner ads, direct mail, web sites, blogs, digital publications, mobile applications and corporate infrastructure projects, such as:
+
+	• Integrating iOS and Android mobile, tablets, Facebook, Twitter, etc into digital strategies for clients like Microsoft, Nike, 	XBOX, McDonald’s, Visa, Target, Audi and Gap
+	
+	• Managing all QA for Target Black Friday digital campaigns for four years with zero down-time or performance issues (even when 	main Target.com site failed)
+	
 	• Successive world record-grossing product launch campaigns for XBOX Halo games and Kinect platform
-	• Highly-awarded multi-lingual, multi-site global Olympics campaigns for McDonald’s, featuring the world’s largest mass multiplayer game, and Visa’s digital deployment of the iconic Morgan Freeman ads
-	• Quality lead maintaining customer satisfaction for the highest-margin account in entire agency for two years running, during migration to agile process blog for multiple red-flag reviews.
-	• Perfect on-time publication delivery for Target Weekly Ad, and fashion blog for Gap, Levi and Target. 
+	
+	• Highly-awarded multi-lingual, multi-site global Olympics campaigns for McDonald’s, featuring the world’s largest mass 		multiplayer game, and Visa’s digital deployment of the iconic Morgan Freeman ads
+	
+	• Quality lead maintaining customer satisfaction for the highest-margin account in entire agency for two years running, during 		migration to agile process blog for multiple red-flag reviews.
+	
+	• Perfect on-time publication delivery for Target Weekly Ad, and fashion blog for Gap, Levi and Target.
+	
 	• Optimized Target Weekly Ad sites for 20 to 30% performance boost across all platforms
 
 Quality Engineer 
 Delta Dental San Francisco (2004-2005) 
- Senior  member on team testing the conversion of legacy proprietary client-server system to web-based HIPAA-compliant solution, using sensitive live customer data, coordinating testing with Russian team.
+
+Senior  member on team testing the conversion of legacy proprietary client-server system to web-based HIPAA-compliant solution, using sensitive live customer data, coordinating testing with Russian team.
 
 Quality Assurance Manager
 Strategement San Francisco (2003)
- Directed testing for fast-moving start-up development and implementation of digital retail sites for Simayoff Jewelers and World of Charms, with Israeli technical management and Indian development team.
+
+Directed testing for fast-moving start-up development and implementation of digital retail sites for Simayoff Jewelers and World of Charms, with Israeli technical management and Indian development team.
 
 Partner/Technical Operations Manager
+
 Giant Anteater Studios  San Francisco (2001-2003) 
  Creative and technical services for musicians, artists and nightclubs, delivering print and digital strategy and materials, web sites, and including CD launches, event management, club video and light shows
 
 Quality Assurance Manager
 Kiracom San Francisco (1999-2000)
+
 Woman-focused dot.com startup leveraging proprietary email system, ad serving and preference survey software into digital retail brand marketing and consumer rewards program.
 
 Quality Engineer
 Just In Time Solutions/Avolent San Francisco (1998-1999)
+
 Tested conversions to web-based services for major corporate clients, like HP’ worldwide Sales and Service directory, Wells Fargo consumer mortgage processing, and digital publishing ventures
 
 Quality Engineer/Quality Team Lead
 Apple Cupertino, CA (1992-1998) 
+
 Team lead on projects like PowerBook 150, and first-multiprocessor Macs.  Senior QA engineer for Performa hardware featuring first integrated TV and first consumer software web authoring tools, first integrated CDR and DVD players, mass storage hardware and drivers, QuickTime 3D, text-to-speech.  Responsible for operating system release compatibility for “top 100” applications.
 
 Senior Technical Operations Coordinator
 Kiewit Computation Center Dartmouth College Hanover, NH (1984-1992)
+
 Lead administrative role at cutting-edge 24/7/365 Ivy League academic computing facility as large mainframe time-sharing transformed with the arrival of campus-wide personal computing.
 
 
-Education
+EDUCATION
 
 Dartmouth College Hanover, NH (1975-1980) Alumni Fund Scholar, cross-disciplinary program in Policy Studies (Government, Economics, Environmental Science, Statistics) and Psychology
+
 Rome Free Academy Rome, NY Salutatorian of 800 student-sized class, school president
